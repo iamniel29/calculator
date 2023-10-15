@@ -22,8 +22,8 @@
 }
 
 .calculator input {
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     margin: 5px 2px;
     border: none;
     border-radius: 10px;
@@ -32,7 +32,7 @@
 }
 
 form div input.equal {
-    width: 88px;
+    width: 128px;
 }
 
 form .display-container {
